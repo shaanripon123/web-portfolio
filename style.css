@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 15px;
+}
+.coloring{
+    color:orange;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.half{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width :100%;
+
+}
